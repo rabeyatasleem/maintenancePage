@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your existing styles -->
+    <style name="CustomButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@null</item>
+        <item name="rippleColor">@null</item>
+        <item name="strokeColor">@null</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="CustomSpinnerItem">
+        <item name="android:background">?attr/colorControlHighlight</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

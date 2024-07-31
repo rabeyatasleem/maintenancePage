@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaintenancePage</string>
+    <string name="maintenance_page">Maintenance Page</string>
+    <string name="tap_anywhere_to_add_a_vehicle">Tap anywhere to \n add a vehicle</string>
+    <string name="tyre">Tyre</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="ake_754">AKE 754</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
