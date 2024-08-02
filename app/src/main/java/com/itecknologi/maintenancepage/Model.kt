@@ -1,7 +1,7 @@
 package com.itecknologi.maintenancepage
 
 data class Model(
-    val maintenanceName: Int,
+    val maintenanceName: String,
     val progress: Int,
     val progressType: progressType
 )

@@ -33,4 +33,8 @@ class CustomAdapter(private val mList: ArrayList<Model>) :
 
     }
 
+    fun addItem(item: Model) {
+        mList.add(item)
+        notifyItemInserted(mList.size - 1)
+    }
 }
